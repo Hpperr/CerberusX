@@ -1,0 +1,10 @@
+# KERNEL CORE
+scapy==2.5.0
+netfilterqueue==1.1.0
+websocket-client==1.5.1
+
+# C2 INFRASTRUCTURE
+# Run: npm install ws express
+
+# STEALTH & BYPASS
+# Required system tools: sslstrip, iptables, build-essential
