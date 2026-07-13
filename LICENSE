@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+⚠️ CERBERUS X v2.0 - DISCLAIMER
+
+This software is provided for EDUCATIONAL and AUTHORIZED SECURITY TESTING
+purposes only. The authors and contributors are not responsible for any
+misuse, damage, or legal consequences arising from the use of this tool.
+
+By using this software, you agree to:
+
+1. ONLY USE ON SYSTEMS YOU OWN OR HAVE EXPLICIT AUTHORIZATION TO TEST
+2. COMPLY WITH ALL APPLICABLE LAWS AND REGULATIONS
+3. ACCEPT FULL RESPONSIBILITY FOR YOUR ACTIONS
+4. NOT USE THIS TOOL FOR ANY ILLEGAL ACTIVITIES
+
+The techniques demonstrated in this tool highlight real-world mobile
+security vulnerabilities. Understanding these attack vectors is crucial
+for defenders to properly secure their infrastructure.
+
+REMEMBER: "With great power comes great responsibility."
